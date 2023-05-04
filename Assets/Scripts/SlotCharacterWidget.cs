@@ -27,8 +27,8 @@ public class SlotCharacterWidget : MonoBehaviour
     public void ShowInfoCharacterSlot(string name, string level, string gold)
     {
         _nameLabel.text = name;
-        _levelLabel.text = level;
-        _goldLabel.text = gold;
+        _levelLabel.text = $"Level: {level}";
+        _goldLabel.text = $"Gold: {gold}"; ;
 
         _infoCharacterSlot.SetActive(true);
         _emptySlot.SetActive(false);

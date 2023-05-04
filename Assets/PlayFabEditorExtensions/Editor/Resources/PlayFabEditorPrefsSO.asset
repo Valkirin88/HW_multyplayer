@@ -15,10 +15,10 @@ MonoBehaviour:
   DevAccountEmail: valkirin2000@gmail.com
   DevAccountToken: diu5abzdsc5x8tmgxyebixc3xg3hxko5h7wm1zcwia1ux1irk1dgs4zpi9fax9sp6yid5zztjthdt1he3pj9pmyaey45zwy3ogjg7u6hkmkrpfrdnqh3g1ggitwf8oyhp15qzuqjmkwa6u637q7nx5xhooc6jddqp3rmhzdgj7bokn74wjhnzobqkuxrr4ofedqho6po
   AadAuthorization: 
-  SelectedStudio: 
+  SelectedStudio: Andrey's studio
   SdkPath: Assets/PlayFabSDK
   EdExPath: 
   LocalCloudScriptPath: 
   PanelIsShown: 0
-  curMainMenuIdx: 0
+  curMainMenuIdx: 1
   curSubMenuIdx: 0
